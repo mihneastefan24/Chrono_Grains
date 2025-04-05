@@ -1,0 +1,5 @@
+Notes::
+
+In the Code Large_Agg.particles are considered to be hull-surface bodies with 16 vertices, and the contact model is considered to be NSC (The SMC option is commented out, if it is wanted the change between the two must be done, by commenting.) 
+
+The code is property of Alessandro Tasora and Chrono Project.
